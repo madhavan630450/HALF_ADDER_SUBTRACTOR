@@ -69,9 +69,11 @@ endmodule
 
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+```
+Developed by:MARIMUTHU MATHAVAN  
+RegisterNumber:212224230153
 
-Developed by: RegisterNumber:*/
-
+```
 **RTL Schematic**
 HALF ADDER
 ![Screenshot 2024-12-03 132819](https://github.com/user-attachments/assets/3e33c7f4-7647-4daf-969e-433462b69399)
